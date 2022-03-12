@@ -19,5 +19,6 @@ public class salarioCarros {
         }
         salarioFinal = 1000 + (150 * carrosVendidos) + aux2;
         System.out.println("Tu salario final es de: $" + salarioFinal);
+        entrada.close();
     }
 }

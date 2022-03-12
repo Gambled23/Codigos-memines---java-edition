@@ -22,5 +22,6 @@ public class pruebaOperadores {
         //Mod
         resultado = numero1 % numero2;
         System.out.println("El residuo de la division es: " + resultado);
+        entrada.close();
     }
 }
