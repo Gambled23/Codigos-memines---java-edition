@@ -1,0 +1,7 @@
+Para inicializar un arreglo se usa la siguiente estructura
+
+Tipo_de_dato[] Nombre_del_arreglo = new Tipo_de_dato[tamanioDelArreglo];
+int[] alumnos = new int[10];
+boolean[] banderas = new boolean[3];
+
+Igual empiezan desde 0 como en C 
