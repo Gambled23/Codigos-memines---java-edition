@@ -4,4 +4,8 @@ Tipo_de_dato[] Nombre_del_arreglo = new Tipo_de_dato[tamanioDelArreglo];
 int[] alumnos = new int[10];
 boolean[] banderas = new boolean[3];
 
+Para no especificarle cuantos elementos tiene el arreglo
+int[] numeros = {7,4,1,9,3};
+Ese arreglo tendra 5 espacios sin la necesidad de indicarselo
 Igual empiezan desde 0 como en C 
+
